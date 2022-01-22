@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mwss</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwsstheripper&label=Profile%20views&color=0e75b6&style=flat" alt="mwsstheripper" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwsstheripper" alt="mwsstheripper" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mwss" target="blank"><img src="https://img.shields.io/twitter/follow/mwss?logo=twitter&style=for-the-badge" alt="mwss" /></a> </p>
+- 💬 Ask me about **Mwss The Ripper#0258**
+
+- 📫 How to reach me **Mwss The Ripper#0258**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mwss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mwss" height="30" width="40" /></a>
-<a href="https://fb.com/aras eren göktürk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aras eren göktürk" height="30" width="40" /></a>
-<a href="https://discord.gg/Mwss The Ripper#0258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mwss The Ripper#0258" height="30" width="40" /></a>
+<a href="https://instagram.com/mwssex.xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mwssex.xd" height="30" width="40" /></a>
+<a href="https://discord.gg/ripper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ripper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
